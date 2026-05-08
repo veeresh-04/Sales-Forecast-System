@@ -1,6 +1,5 @@
 # Sales Forecasting System
-
-Production-ready multi-model time-series forecasting service for weekly
+A multi-model time-series forecasting service for weekly
 state-level beverage sales. Forecasts the next **8 weeks** of sales for
 each of 43 US states using an ensemble of SARIMA, Prophet, XGBoost, and LSTM.
 
